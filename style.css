@@ -1,8 +1,10 @@
 h1 {
-color: red}
+color: red;}
+
 h2{
-    color:green
+    color:green;
 }
 p{
-    font-size: 3%;
+    font-size: 30px;
+    color:rgb(35, 14, 151);
 }
